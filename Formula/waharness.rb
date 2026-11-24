@@ -1,8 +1,8 @@
 class Waharness < Formula
   desc "Zero-Rated AI Agent Terminal and Remote Execution Engine over WhatsApp"
   homepage "https://github.com/r0bledas/WaHarness"
-  url "https://github.com/r0bledas/WaHarness/archive/refs/tags/v1.0.7.tar.gz"
-  sha256 "fdf31ace6e8cdb0ac49aa76dccc619697e2ed397d1221f883d7b8128be7b9748"
+  url "https://github.com/r0bledas/WaHarness/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "fe8e25424fa0ec28d5cb1687048a46efb11081cd77cead8c6fc1b36405f3225d"
   license "MIT"
 
   depends_on "node"
